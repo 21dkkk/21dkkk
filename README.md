@@ -13,7 +13,7 @@
   <p align="center">
     <a href="https://t.me/kla1d3"><img src="https://img.shields.io/badge/Telegram-@kla1d3-24A1DE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
     &nbsp;
-    <a href="https://instagram.com/kla1d3"><img src="https://img.shields.io/badge/Instagram-@kla1d3-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://instagram.com/21dkkk"><img src="https://img.shields.io/badge/Instagram-@kla1d3-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </p>
 </div>
 

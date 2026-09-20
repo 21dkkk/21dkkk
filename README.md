@@ -11,8 +11,9 @@
   </p>
 
   <p align="center">
-    <a href="https://t.me/nextset_app"><img src="https://img.shields.io/badge/Telegram-NextSet%20Updates-24A1DE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-    <a href="https://github.com/21dkkk"><img src="https://img.shields.io/badge/GitHub-21dkkk-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://t.me/kla1d3"><img src="https://img.shields.io/badge/Telegram-@kla1d3-24A1DE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    &nbsp;
+    <a href="https://instagram.com/kla1d3"><img src="https://img.shields.io/badge/Instagram-@kla1d3-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </p>
 </div>
 
